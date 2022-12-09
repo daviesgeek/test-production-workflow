@@ -6,5 +6,7 @@
   "author": "Matthew Davies <matthew@daviesgeek.com>",
   "license": "MIT",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
 }
